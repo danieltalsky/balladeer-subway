@@ -6,3 +6,6 @@ A grimy subway simulation using the python tool balladeer
 - Ensure python 3.12 is installed
 - `poetry install`
 
+## Running
+
+- poetry run python main.py
